@@ -18,6 +18,14 @@ class EventServiceProvider extends ServiceProvider
         Registered::class => [
             SendEmailVerificationNotification::class,
         ],
+
+        'App\Events\GenerateGiangVienCredentials' => [
+            'App\Listeners\GenerateGiangVienCredentialsListener',
+        ],
+
+        'App\Events\GenerateSinhVienCredentials' => [
+            'App\Listeners\GenerateSinhVienCredentialsListener',
+        ],
     ];
 
     /**
