@@ -2,7 +2,7 @@
 
 ### Để khởi chạy được một dự án Laravel, trước tiên cần cài đặt Xampp và Composer
 
-## Cài đặt Composer:
+## Cài đặt Composer
 - Truy cập vào đường dẫn https://getcomposer.org/download/ và tải xuống file Composer-Setup.exe.
 - Có thể kiểm tra phiên bản Composer bằng cách start=>run=>cmd và nhập lệnh: Composer–version
 
@@ -12,8 +12,8 @@
 
 ## Khởi chạy dự án
 - Bước 1: vào terminal
-- Bước 2: nhập lệnh php artisan serve
-- Bước 3: hệ thống sẽ xuất hiện đường dẫn [http://127.0.0.1:8000/] và nhấp chọn để mở ứng dụng web.
+- Bước 2: nhập lệnh: php artisan serve
+- Bước 3: hệ thống sẽ xuất hiện đường dẫn http://127.0.0.1:8000/ và nhấp chọn để mở ứng dụng web.
 
 ## Thông tin liên lạc
 - Lê Đức Nhuận
