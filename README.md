@@ -12,7 +12,7 @@
 
 ## Khởi chạy dự án
 - Bước 1: vào terminal
-- Bước 2: nhập leenhjL php artisan serve
+- Bước 2: nhập lệnh php artisan serve
 - Bước 3: hệ thống sẽ xuất hiện đường dẫn [http://127.0.0.1:8000/] và nhấp chọn để mở ứng dụng web.
 
 ## Thông tin liên lạc
