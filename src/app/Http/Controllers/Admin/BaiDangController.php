@@ -55,7 +55,7 @@ class BaiDangController extends Controller
             'baidang',
             'trangthai',
             'macd',
-            'matk'
+            'madt'
         ))->with('i', (request()->input('page', 1) -1) *5);
     }
 
